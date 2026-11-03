@@ -1,101 +1,101 @@
-PassengerId,Pclass,Sex,Age,Fare,SibSp,Parch
-1001,1,female,28,238,2,0
-1002,1,female,15,27,1,3
-1003,1,female,4,157,3,0
-1004,3,female,73,281,0,2
-1005,2,female,27,65,3,1
-1006,1,female,26,56,0,1
-1007,2,male,19,157,0,1
-1008,3,male,17,241,4,3
-1009,3,male,43,36,0,1
-1010,3,male,41,59,0,3
-1011,3,male,42,40,2,2
-1012,2,male,50,114,3,2
-1013,1,female,40,181,2,3
-1014,3,female,39,299,0,0
-1015,3,male,23,101,4,1
-1016,2,male,52,217,2,1
-1017,2,female,47,141,2,1
-1018,3,female,63,10,1,3
-1019,1,female,69,113,0,2
-1020,1,male,43,39,4,1
-1021,3,female,48,43,2,2
-1022,2,male,34,154,2,1
-1023,3,male,40,122,4,1
-1024,3,female,75,265,0,3
-1025,2,female,61,91,1,0
-1026,3,male,50,80,2,3
-1027,3,female,67,218,1,1
-1028,3,female,62,289,3,1
-1029,2,male,58,243,0,0
-1030,1,female,33,169,3,2
-1031,1,male,75,91,3,2
-1032,2,male,16,145,3,1
-1033,1,female,48,164,0,2
-1034,3,male,10,50,0,1
-1035,1,male,38,116,4,0
-1036,3,female,19,49,1,0
-1037,1,female,36,251,1,1
-1038,2,female,59,108,4,0
-1039,1,male,63,89,4,3
-1040,1,male,77,138,3,3
-1041,1,female,46,112,4,0
-1042,2,male,3,22,2,1
-1043,1,female,74,98,1,1
-1044,2,female,65,154,4,0
-1045,3,male,8,250,2,2
-1046,1,female,51,293,2,3
-1047,2,male,73,213,2,2
-1048,2,male,6,130,2,1
-1049,1,female,39,239,3,1
-1050,3,male,60,126,2,2
-1051,2,female,28,142,3,0
-1052,1,male,54,119,3,2
-1053,3,male,37,166,2,2
-1054,2,male,9,205,1,3
-1055,2,female,56,238,2,3
-1056,3,male,59,32,2,2
-1057,3,female,2,15,2,2
-1058,1,male,61,210,1,1
-1059,1,male,58,171,0,3
-1060,2,female,60,251,0,3
-1061,3,female,40,51,3,1
-1062,3,female,36,250,3,0
-1063,3,female,37,131,1,3
-1064,2,female,79,151,4,3
-1065,3,male,18,122,0,0
-1066,3,male,63,156,3,3
-1067,2,female,22,76,0,3
-1068,1,male,11,141,1,0
-1069,1,male,58,179,1,0
-1070,2,male,57,293,4,2
-1071,3,female,77,23,4,1
-1072,2,male,4,199,1,1
-1073,1,male,7,179,3,0
-1074,1,male,61,145,0,0
-1075,2,female,54,250,2,3
-1076,2,male,68,97,4,2
-1077,1,male,79,243,2,2
-1078,2,female,1,209,3,0
-1079,1,female,55,52,4,3
-1080,2,male,3,249,2,3
-1081,2,male,78,299,3,1
-1082,2,female,38,132,0,1
-1083,1,female,1,286,3,3
-1084,2,female,38,21,4,1
-1085,1,female,29,75,1,0
-1086,1,female,5,273,0,3
-1087,2,female,74,286,2,1
-1088,2,female,21,11,4,2
-1089,1,male,71,107,1,3
-1090,1,female,67,197,3,3
-1091,3,female,47,245,1,2
-1092,1,male,35,66,4,0
-1093,3,female,68,21,4,2
-1094,3,female,69,175,1,3
-1095,3,male,1,29,3,0
-1096,2,female,68,255,1,1
-1097,2,male,12,257,4,1
-1098,1,male,60,211,4,1
-1099,3,male,27,33,2,3
-1100,2,male,56,121,2,2
+PassengerId,Name,Pclass,Sex,Age,Fare,SibSp,Parch,Cabin,Embarked
+401,Master. Person400,1,female,74,94,2,2,G6,S
+402,Master. Person401,3,female,55,264,0,1,G6,C
+403,Miss. Person402,3,female,69,130,3,3,E46,S
+404,Mr. Person403,3,female,47,235,3,0,C85,C
+405,Master. Person404,2,female,49,299,0,0,C85,C
+406,Master. Person405,1,female,33,133,1,1,,C
+407,Mrs. Person406,2,male,21,284,3,2,G6,C
+408,Master. Person407,2,female,22,104,4,1,,C
+409,Master. Person408,3,female,48,186,3,3,G6,S
+410,Mrs. Person409,3,male,37,178,4,1,E46,C
+411,Miss. Person410,2,female,15,192,0,0,G6,S
+412,Master. Person411,3,male,35,61,0,3,,C
+413,Mrs. Person412,3,male,71,35,3,0,,Q
+414,Mr. Person413,2,female,32,88,2,2,,C
+415,Miss. Person414,1,male,11,156,4,0,E46,Q
+416,Mr. Person415,1,female,10,40,1,0,G6,C
+417,Mr. Person416,2,female,73,217,3,1,G6,C
+418,Mrs. Person417,1,male,78,110,1,0,,C
+419,Master. Person418,1,male,77,224,3,3,G6,Q
+420,Mrs. Person419,2,male,57,167,2,3,C85,Q
+421,Mrs. Person420,1,female,25,224,2,2,C85,C
+422,Mrs. Person421,3,female,2,274,2,3,C85,S
+423,Mrs. Person422,1,female,64,124,2,1,G6,C
+424,Miss. Person423,3,male,35,186,0,2,E46,Q
+425,Master. Person424,2,female,7,110,0,3,E46,C
+426,Mr. Person425,3,male,18,221,4,1,E46,Q
+427,Mr. Person426,1,female,67,209,1,3,E46,Q
+428,Master. Person427,2,male,42,74,3,3,C85,Q
+429,Mr. Person428,3,female,39,48,3,0,C85,C
+430,Master. Person429,3,male,41,232,0,3,,Q
+431,Mr. Person430,3,female,75,188,3,3,G6,Q
+432,Mrs. Person431,2,male,24,111,0,1,G6,C
+433,Mr. Person432,1,female,60,88,4,1,E46,Q
+434,Master. Person433,3,female,46,254,1,0,C85,C
+435,Master. Person434,3,male,19,25,4,3,E46,Q
+436,Master. Person435,3,female,68,200,2,0,,S
+437,Master. Person436,3,female,42,182,2,3,G6,S
+438,Master. Person437,2,male,32,11,2,2,G6,Q
+439,Miss. Person438,3,male,39,74,4,2,E46,S
+440,Miss. Person439,1,female,36,131,3,0,,C
+441,Mr. Person440,2,male,36,164,1,0,G6,S
+442,Master. Person441,2,male,3,252,2,0,,Q
+443,Mr. Person442,3,male,73,207,2,1,,Q
+444,Master. Person443,2,female,8,152,2,1,E46,C
+445,Master. Person444,1,male,70,147,1,1,C85,Q
+446,Miss. Person445,3,female,41,203,2,0,E46,C
+447,Miss. Person446,2,female,68,158,1,3,C85,S
+448,Mrs. Person447,3,female,13,146,2,2,,S
+449,Miss. Person448,1,female,49,169,4,0,C85,C
+450,Mrs. Person449,2,male,60,25,4,1,,C
+451,Mrs. Person450,3,female,2,86,1,1,G6,Q
+452,Mrs. Person451,1,male,60,73,4,0,G6,S
+453,Mrs. Person452,2,male,5,135,1,0,G6,C
+454,Mrs. Person453,1,male,44,91,4,1,E46,S
+455,Mr. Person454,1,male,27,222,4,3,E46,C
+456,Miss. Person455,3,female,32,165,1,1,,S
+457,Mrs. Person456,2,female,21,182,3,1,G6,Q
+458,Master. Person457,3,male,8,121,4,0,E46,S
+459,Miss. Person458,2,male,72,200,2,3,G6,S
+460,Miss. Person459,3,female,50,90,3,1,E46,S
+461,Mrs. Person460,3,male,67,293,1,1,C85,S
+462,Mr. Person461,3,male,44,85,3,2,C85,S
+463,Mrs. Person462,2,male,58,156,0,0,G6,Q
+464,Mr. Person463,2,female,3,65,0,2,,C
+465,Master. Person464,2,female,70,65,4,2,E46,S
+466,Miss. Person465,3,male,2,32,4,1,E46,Q
+467,Master. Person466,3,male,44,47,2,0,C85,S
+468,Mr. Person467,3,female,2,173,3,3,C85,S
+469,Mr. Person468,1,female,35,90,0,1,,C
+470,Master. Person469,3,male,30,181,4,3,,S
+471,Mr. Person470,3,female,8,21,3,3,,Q
+472,Master. Person471,1,male,22,102,4,0,G6,Q
+473,Miss. Person472,1,male,44,202,4,2,C85,C
+474,Master. Person473,3,female,58,102,0,0,G6,S
+475,Miss. Person474,3,male,36,69,0,3,C85,Q
+476,Master. Person475,3,female,69,9,4,1,C85,S
+477,Mr. Person476,1,male,77,6,1,3,E46,S
+478,Master. Person477,3,male,31,26,4,1,C85,S
+479,Mr. Person478,2,female,47,116,4,1,C85,C
+480,Master. Person479,1,male,55,61,2,0,G6,S
+481,Master. Person480,1,female,62,70,2,3,C85,Q
+482,Mrs. Person481,3,male,30,102,2,2,G6,S
+483,Mr. Person482,3,male,55,148,1,3,,Q
+484,Mrs. Person483,3,male,16,129,1,3,C85,S
+485,Mr. Person484,2,female,12,171,4,2,C85,Q
+486,Mrs. Person485,3,male,17,90,2,0,G6,Q
+487,Miss. Person486,2,female,16,80,1,3,,S
+488,Master. Person487,3,male,12,298,0,3,E46,S
+489,Mr. Person488,2,female,8,63,4,1,,Q
+490,Mr. Person489,2,male,3,142,3,3,G6,C
+491,Master. Person490,2,female,16,103,4,2,,S
+492,Mr. Person491,2,female,30,196,3,1,G6,C
+493,Mr. Person492,3,female,23,247,2,0,G6,S
+494,Mrs. Person493,3,female,5,53,3,1,E46,S
+495,Mr. Person494,2,female,65,36,2,2,C85,S
+496,Miss. Person495,3,female,30,281,0,2,G6,S
+497,Miss. Person496,2,male,21,24,3,1,G6,C
+498,Master. Person497,3,male,70,158,4,0,E46,S
+499,Mr. Person498,3,female,22,72,2,1,G6,Q
+500,Master. Person499,3,female,72,218,4,0,C85,Q
